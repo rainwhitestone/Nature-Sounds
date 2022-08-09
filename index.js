@@ -50,14 +50,14 @@ function handleClick (){
     
     
         case "t":
-            var audio = new Audio("sounds/bird-3.wav");
+            var audio = new Audio("/sounds/bird-3.wav");
             audio.play();
             
         break;
     
     
         case "u":
-            var audio = new Audio("sounds/night.wav");
+            var audio = new Audio("/sounds/night.wav");
             audio.play();
                 
         break;
