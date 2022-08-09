@@ -35,7 +35,7 @@ function handleClick (){
 
 
     switch(key) {
-        case "w":
+        case "n":
             var audio = new Audio("/nature/sounds/bird.wav");
             audio.play();
     
@@ -49,27 +49,27 @@ function handleClick (){
         break;
     
     
-        case "s":
+        case "t":
             var audio = new Audio("/nature/sounds/bird-3.wav");
             audio.play();
             
         break;
     
     
-        case "d":
+        case "u":
             var audio = new Audio("/nature/sounds/night.wav");
             audio.play();
                 
         break;
         
-        case "j":
+        case "r":
             var audio = new Audio("/nature/sounds/storm.wav");
             audio.play();
                 
         break;
     
         
-        case "k":
+        case "e":
             var audio = new Audio("/nature/sounds/storm-2.wav");
             audio.play();
                 
