@@ -36,14 +36,14 @@ function handleClick (){
 
     switch(key) {
         case "n":
-            var audio = new Audio("/Nature-Sounds/sounds/bird.wav");
+            var audio = new Audio("sounds/bird.wav");
             audio.play();
     
         break;
     
     
         case "a":
-            var audio = new Audio("../sounds/bird-2.wav");
+            var audio = new Audio("sounds/bird-2.wav");
             audio.play();
         
         break;
