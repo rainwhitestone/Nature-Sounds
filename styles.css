@@ -1,0 +1,92 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-image: url("/nature/images/hills-ga89a763e0_1920.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+      
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #5F7161;
+    font-weight: lighter;
+  
+  }
+  
+  footer {
+    
+    font-family: sans-serif;
+  }
+  
+  .w {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  .a {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  .s {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  .d {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  .j {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  .k {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  
+  .set {
+    margin: 10% auto;
+ 
+  }
+  
+ 
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: #FAD9E6;
+  }
+  
+  .drum {
+    outline: none;
+    border: 7px solid #5F7161;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #5F7161;
+    text-shadow: 3px 0 #EFEAD8;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    
+  }
+  
+  .footermessage{
+
+    font-family: 'Arvo', cursive;
+    color: peachpuff;
+    font-size: large;
+
+  }
