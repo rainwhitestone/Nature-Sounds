@@ -36,41 +36,41 @@ function handleClick (){
 
     switch(key) {
         case "n":
-            var audio = new Audio("sounds/bird.wav");
+            var audio = new Audio("n-sound.wav");
             audio.play();
     
         break;
     
     
         case "a":
-            var audio = new Audio("sounds/bird-2.wav");
+            var audio = new Audio("a-sound.wav");
             audio.play();
         
         break;
     
     
         case "t":
-            var audio = new Audio("/sounds/bird-3.wav");
+            var audio = new Audio("t-sound.wav");
             audio.play();
             
         break;
     
     
         case "u":
-            var audio = new Audio("/sounds/night.wav");
+            var audio = new Audio("u-sound.wav");
             audio.play();
                 
         break;
         
         case "r":
-            var audio = new Audio("sounds/storm.wav");
+            var audio = new Audio("r-sound.wav");
             audio.play();
                 
         break;
     
         
         case "e":
-            var audio = new Audio("sounds/storm-2.wav");
+            var audio = new Audio("e-sound.wav");
             audio.play();
                 
         break;
